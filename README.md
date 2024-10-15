@@ -1,7 +1,6 @@
 # Real-Time Game Statistics Web Application
 
-![Project Logo](link_to_logo_image) <!-- Replace with the actual logo image link -->
-
+![Project Logo]() 
 ## Overview
 The **Real-Time Game Statistics Web Application** is a full-stack web app built with Next.js and Node.js that provides users with real-time data about video games using the RAWG API. This application is designed for gamers and gaming enthusiasts, offering a seamless experience to explore, discover, and track their favorite games.
 
@@ -20,7 +19,7 @@ The **Real-Time Game Statistics Web Application** is a full-stack web app built 
   - React Context API
 - **Backend**: 
   - Node.js
-  - Express (if used)
+  - Express 
   - MongoDB (for storing user preferences and other data)
 
 ## Installation
