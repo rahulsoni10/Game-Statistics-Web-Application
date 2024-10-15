@@ -22,11 +22,6 @@ The **Game Statistics Web Application** is a full-stack web app built with Next.
   - Express 
   - MongoDB (for storing user preferences and other data)
 
-## Installation
-Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/Game-Statistics-Web-Application.git
-   cd Game-Statistics-Web-Application ```
 ## Usage
 - Navigate through the sidebar to access different pages.
 - Use the search functionality to find specific games.
