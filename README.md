@@ -23,7 +23,23 @@ The **Game Statistics Web Application** is a full-stack web app built with Next.
   - MongoDB (for storing user preferences and other data)
 
 ## Installation
-1. Clone the repository:
+Clone the repository:
    ```bash
    git clone https://github.com/yourusername/Game-Statistics-Web-Application.git
    cd Game-Statistics-Web-Application
+## Usage
+- Navigate through the sidebar to access different pages.
+- Use the search functionality to find specific games.
+- Click on game titles to view detailed information.
+
+## Video Demonstration
+You can view a video demonstration of the application [here](https://drive.google.com/file/d/1jGQzMEbWOfm2GSepOXWmexiTERwv32CI/view?usp=sharing).
+
+
+## Contributing
+Contributions are welcome! If you have suggestions or improvements, feel free to create a pull request or open an issue.
+
+
+## Acknowledgments
+- Thanks to the [RAWG API](https://rawg.io/apidocs) for providing game data.
+- Inspired by various projects and contributions from the developer community.
