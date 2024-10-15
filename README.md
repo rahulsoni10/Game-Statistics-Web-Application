@@ -1,38 +1,34 @@
-# Game Statistics Web Application
-![Screenshot 2024-10-15 131750](https://github.com/user-attachments/assets/d4842203-287e-46ef-92e3-c89fc3651ae5)
- 
-## Overview
-The **Game Statistics Web Application** is a full-stack web app built with Next.js and Node.js that provides users with real-time data about video games using the RAWG API. This application is designed for gamers and gaming enthusiasts, offering a seamless experience to explore, discover, and track their favorite games.
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Features
-- **Responsive Design**: Optimized for both desktop and mobile devices.
-- **Collapsible Sidebar**: Easy navigation between pages such as Home, Popular games, and Upcoming games.
-- **Game Details**: Displays game trailers, descriptions, ratings, and platform availability.
-- **Advanced Search**: Allows users to search for games by title, genre, and platform.
-- **Load More Functionality**: Fetches additional games as users scroll through the list.
+## Getting Started
 
-## Technologies Used
-- **Frontend**: 
-  - Next.js
-  - React
-  - Styled-components
-  - React Context API
-- **Backend**: 
-  - Node.js
-  - Express 
-  - MongoDB (for storing user preferences and other data)
+First, run the development server:
 
-## Usage
-- Navigate through the sidebar to access different pages.
-- Use the search functionality to find specific games.
-- Click on game titles to view detailed information.
+```bash
+npm run dev
+# or
+yarn dev
+```
 
-## Video Demonstration
-You can view a video demonstration of the application [here](https://drive.google.com/file/d/1jGQzMEbWOfm2GSepOXWmexiTERwv32CI/view?usp=sharing).
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-## Contributing
-Contributions are welcome! If you have suggestions or improvements, feel free to create a pull request or open an issue.
+You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
 
-## Acknowledgments
-- Thanks to the [RAWG API](https://rawg.io/apidocs) for providing game data.
-- Inspired by various projects and contributions from the developer community.
+[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+
+The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+
+## Learn More
+
+To learn more about Next.js, take a look at the following resources:
+
+- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
+- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+
+You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+
+## Deploy on Vercel
+
+The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+
+Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
