@@ -28,13 +28,11 @@ The **Game Statistics Web Application** is a full-stack web app built with Next.
 - Click on game titles to view detailed information.
 
 ## Video Demonstration
-You can view a video demonstration of the application ![Demo](https://drive.google.com/file/d/1jGQzMEbWOfm2GSepOXWmexiTERwv32CI/view?usp=sharing).
-
+You can view a video demonstration of the application [here](https://drive.google.com/file/d/1jGQzMEbWOfm2GSepOXWmexiTERwv32CI/view?usp=sharing).
 
 ## Contributing
 Contributions are welcome! If you have suggestions or improvements, feel free to create a pull request or open an issue.
 
-
 ## Acknowledgments
-- Thanks to the ![RAWG API](https://rawg.io/apidocs) for providing game data.
+- Thanks to the [RAWG API](https://rawg.io/apidocs) for providing game data.
 - Inspired by various projects and contributions from the developer community.
