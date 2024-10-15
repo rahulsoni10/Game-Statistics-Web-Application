@@ -1,9 +1,8 @@
-# Real-Time Game Statistics Web Application
-
+# Game Statistics Web Application
 ![Screenshot 2024-10-15 131750](https://github.com/user-attachments/assets/d4842203-287e-46ef-92e3-c89fc3651ae5)
  
 ## Overview
-The **Real-Time Game Statistics Web Application** is a full-stack web app built with Next.js and Node.js that provides users with real-time data about video games using the RAWG API. This application is designed for gamers and gaming enthusiasts, offering a seamless experience to explore, discover, and track their favorite games.
+The **Game Statistics Web Application** is a full-stack web app built with Next.js and Node.js that provides users with real-time data about video games using the RAWG API. This application is designed for gamers and gaming enthusiasts, offering a seamless experience to explore, discover, and track their favorite games.
 
 ## Features
 - **Responsive Design**: Optimized for both desktop and mobile devices.
@@ -26,5 +25,5 @@ The **Real-Time Game Statistics Web Application** is a full-stack web app built 
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/real-time-game-statistics.git
-   cd real-time-game-statistics
+   git clone https://github.com/yourusername/Game-Statistics-Web-Application.git
+   cd Game-Statistics-Web-Application
